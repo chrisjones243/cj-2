@@ -65,16 +65,6 @@ class App extends Component {
 
       open
 
-        // .add({
-        //   targets: '.open-display',
-        //   easing: 'linear',
-        //   offset: 0,
-        //   delay: 1000,
-        //   width: ['100vw','0'],
-        //   height: ['100vh','0'],
-        //
-        // })
-
         .add({
           targets: '#title #C',
           translateX: ['37%','0'],
